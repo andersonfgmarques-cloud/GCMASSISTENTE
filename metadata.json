@@ -1,0 +1,6 @@
+{
+  "name": "GCM Digital 153",
+  "description": "Sistema de Atendimento e Gestão de Ocorrências da Guarda Civil Municipal (GCM 153) com Bot Telegram, Triagem com IA e Painel Administrativo em tempo real.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
